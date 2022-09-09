@@ -28,12 +28,18 @@
     - O JavaScript converte automaticamente entre tipo de valores, como números para texto e para booleanos, porém não é interessante deixá-lo fazer isso automaticamente, pois podem ocorrer erros.
     - Temos como forçar uma mudança de tipo utilizando os métodos `Number()` e `String()`, onde `Number()` converte as variáveis para números ou NaN caso tenha algum erro na conversão, e `String()` converte as variáveis para texto.
 
-- O JavaScript e o NodeJS
-  - JavaScript e NodeJS
-  - Erros e stacktrace
-  - Console.api
-  - Características do JS
-  - O que aprendemos?
+- O JavaScript e o NodeJS ✅
+  - JavaScript e NodeJS ✅
+  - Erros e stacktrace ✅
+  - Console.api ✅
+  - Características do JS ✅
+  - O que aprendemos? ✅
+    - As características principais do JavaScript, como ser uma linguagem interpretada e dinamicamente tipada.
+    - O que o NodeJS é um interpretador de JavaScript para backend, ou seja, não executa no navegador, mas sim no servidor.
+    - Como ler os erros que aparecem no console da aplicação, podendo usar um tradutor, como o Google Tradutor, para entender o que o erro está avisando.
+    - O que é _stacktrace_, também chamado pilha, que nos auxilia a saber o que está acontecendo quando temos um erro, e onde ele se localiza.
+    - O que é o Console API e como podemos utilizá-lo usando o `console.log()` e `console.error()`.
+    - Onde as mensagens do console devem aparecer dependendo do interpretador que estamos usando, sendo que para o NodeJS as mensagens são mostradas no terminal
 
 - Operadores
   - Operadores de comparação
