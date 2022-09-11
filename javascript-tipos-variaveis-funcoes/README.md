@@ -53,11 +53,18 @@
     - O uso da (template) literal, que facilita a construção de ‘strings’ que demandam concatenação (a operação em que se junta 2 ‘strings’), introduzido no ES6.
     - Como usar a template literal, escrevendo o texto entre acentos graves ( \` ) e colocando as variáveis com `${variavel}` para que o valor deles fique nessa posição.
 
-- Funções
-  - Funções
-  - Parâmetros e argumentos
-  - Utilizando parâmetros
-  - Expressão de função
-  - Arrow Function
-  - Estrutura do `if`
-  - O que aprendemos?
+- Funções ✅
+  - Funções ✅
+  - Parâmetros e argumentos ✅
+  - Utilizando parâmetros ✅
+  - Expressão de função ✅
+  - Arrow Function ✅
+  - Estrutura do `if` ✅
+  - O que aprendemos? ✅
+    - O que são funções, pequenos trechos de código que podem ser executados uma ou mais vezes.
+    - As vantagens de se usar uma função, pois com elas conseguimos deixar o código mais curto e mais legível, facilitando a manutenção.
+    - Como retornar informações da função, utilizando o `return`, lembrando que o `console.log()` apenas mostra a informação no terminal e não para outras partes do código.
+    - A utilidade dos argumentos, já que com eles podemos passar variáveis para as funções poderem usar os valores.
+    - Que com o _hoisting_ o JavaScript analisa todo o código procurando por variáveis declaradas com `var` e funções para trazer tais declarações para o início do código.
+    - Expressões de função, uma maneira diferente de montar funções usando variáveis do tipo `const` e chamando-as pelo nome. Lembrando ser necessário que o programa passe pela variável antes de podermos chamá-la, já que não há suporte à _hoisting_.
+      - _Arrow function_, uma função declarada de maneira mais compacta usando uma const. A _arrow function_ também não tem suporte à hoisting.
