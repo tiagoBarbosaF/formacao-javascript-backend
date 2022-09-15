@@ -13,13 +13,17 @@
     - Como identificar a quantidade de elementos em um array com `.length`;
     - Como fazer as primeiras alterações em um array com `.push()` e `.pop()`.
 
-- Alterando arrays
-  - Dividindo com slice()
-  - Alterando com splice()
-  - Animais marinhos
-  - Concatenando arrays
-  - Lista com 2 dimensões
-  - O que aprendemos?
+- Alterando arrays ✅
+  - Dividindo com slice() ✅
+  - Alterando com splice() ✅
+  - Animais marinhos ✅
+  - Concatenando arrays ✅
+  - Lista com 2 dimensões ✅
+  - O que aprendemos? ✅
+    - Separar um array em partes com `slice()`;
+    - Remover e incluir novos elementos em um array com `splice()`;
+    - Concatenar elementos em um único array com `concat()`;
+    - Trabalhar com arrays de duas dimensões.
 
 - Laços de repetição
   - Procurando na lista
