@@ -25,13 +25,16 @@
     - Concatenar elementos em um único array com `concat()`;
     - Trabalhar com arrays de duas dimensões.
 
-- Laços de repetição
-  - Procurando na lista
-  - For clássico
-  - Média com for
-  - Média com forEach
-  - Parâmetros do forEach
-  - O que aprendemos?
+- Laços de repetição ✅
+  - Procurando na lista ✅
+  - For clássico ✅
+  - Média com for ✅
+  - Média com forEach ✅
+  - Parâmetros do forEach ✅
+  - O que aprendemos? ✅
+    - Utilizar mais métodos, tais quais `indexOf()` e `includes()` para percorrer arrays e comparar resultados;
+    - Utilizar a estrutura `for` e entender seu funcionamento;
+    - Substituir o `for` por métodos de array mais modernos do JavaScript, como `forEach()`.
 
 - Métodos callback
   - Revisando callbacks
