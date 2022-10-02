@@ -36,15 +36,17 @@
     - Utilizar a estrutura `for` e entender seu funcionamento;
     - Substituir o `for` por métodos de array mais modernos do JavaScript, como `forEach()`.
 
-- Métodos callback
-  - Revisando callbacks
-  - Método map()
-  - Alterando strings com map()
-  - forEach e map
-  - O que aprendemos?
+- Métodos callback ✅
+  - Revisando callbacks ✅
+  - Método `map()` ✅
+  - Alterando strings com `map()` ✅
+  - forEach e map ✅
+  - O que aprendemos? ✅
+    - Mais detalhes sobre como trabalhar com métodos callback, como o `map()` para percorrer arrays.
 
-- Mais métodos de array
-  - Filtrando elementos
-  - Retorno do filter
-  - Somando com reduce
-  - O que aprendemos?
+- Mais métodos de array ✅
+  - Filtrando elementos ✅
+  - Retorno do filter ✅
+  - Somando com reduce ✅
+  - O que aprendemos? ✅
+    - Mais práticas para resolver problemas com arrays utilizando os métodos callback `filter()` e `reduce()`.
